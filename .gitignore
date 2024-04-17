@@ -1,0 +1,59 @@
+/.metadata/
+
+########## macOS ##########
+
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
+
+### Eclipse ###
+.metadata
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.settings/
+.loadpath
+.recommenders
+
+# Icon must end with two \r
+Icon
+
+# Thumbnails
+._*
+
+### Microsoft Office
+*.doc
+*.docx
+*.xls
+*.xlsx
+*.ppt
+*.pptx
+
+# Temporary files often created by Office suite
+*~
+*.tmp
+*.temp
+*.swp
+
+# Thumbnails
+~$*
+
+### macOS ###
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows image file caches
+Thumbs.db
+
+# Folder config file
+Desktop.ini
+/bin/
+A4/JFreeChart_Lab4/.classpath
+/ignored_folder
